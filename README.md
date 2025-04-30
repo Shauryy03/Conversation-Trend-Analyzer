@@ -71,10 +71,17 @@ Here are some of the main libraries used:
 
 # 🛠️ Installation & Usage
 
-     1.Clone the Repository:  https://github.com/Shauryy03/WhatsApp-Chat-Analyzer.
-     2.Install Dependencies: pip install pandas matplotlib seaborn wordcloud emoji regex
-     3.Run the Application: streamlit run app.py
-     4.Analyze Your Chat:
+  1.Clone the Repository: 
+                 
+       https://github.com/Shauryy03/WhatsApp-Chat-Analyzer.
+  2.Install Dependencies: 
+  
+        pip install pandas matplotlib seaborn wordcloud emoji regex
+  3.Run the Application:
+       
+        streamlit run app.py
+  4.Analyze Your Chat:
+  
           Export your WhatsApp chat as a .txt file (without media).
           Upload the file through the application interface.
           Choose between group or individual chat analysis.
