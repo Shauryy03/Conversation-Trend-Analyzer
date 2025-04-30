@@ -6,6 +6,14 @@ WhatsApp Chat Analyzer is a data visualization and analysis tool that helps user
        Who talks the most in a group
        What words and emojis are used most often
        How message activity changes over time
+       
+# 🔧 Features
+
+       Message Statistics: Provides counts of total messages, words, media shared, and links.
+       Participant Activity: Identifies the most active participants in the chat.
+       Temporal Analysis: Displays daily and monthly message trends.
+       Emoji Usage: Analyzes the frequency and types of emojis used.
+       Word Cloud Generation: Creates a visual representation of the most frequently used words.
 
 
 # 📊 Types of Analysis
@@ -34,22 +42,13 @@ WhatsApp Chat Analyzer is a data visualization and analysis tool that helps user
 
 # 📦 Dependencies
 Here are some of the main libraries used:
-pandas – Data analysis and DataFrame operations
-matplotlib & seaborn – Visualization
-streamlit – Web interface
-wordcloud – Word cloud generation
-emoji – For identifying and counting emojis
-re – Regular expressions for chat parsing
-
-
-# 🔧 Features
-
-       Message Statistics: Provides counts of total messages, words, media shared, and links.
-       Participant Activity: Identifies the most active participants in the chat.
-       Temporal Analysis: Displays daily and monthly message trends.
-       Emoji Usage: Analyzes the frequency and types of emojis used.
-       Word Cloud Generation: Creates a visual representation of the most frequently used words.
-
+      
+       pandas – Data analysis and DataFrame operations
+       matplotlib & seaborn – Visualization
+       streamlit – Web interface
+       wordcloud – Word cloud generation
+       emoji – For identifying and counting emojis
+       re – Regular expressions for chat parsing
 
 
 # 📂 Repository Structure
