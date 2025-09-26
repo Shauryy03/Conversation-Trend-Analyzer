@@ -1,4 +1,4 @@
-# Whatsap Chat Analyzer
+# Conversation Trend Analyzer
 A Python-based tool to analyze WhatsApp chat exports and generate insights like message counts, word frequencies, most active users, and more.
 WhatsApp Chat Analyzer is a data visualization and analysis tool that helps users understand patterns in their WhatsApp messages. After exporting a chat, the tool can reveal trends like:
        
