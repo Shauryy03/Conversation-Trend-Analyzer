@@ -7,7 +7,7 @@ from wordcloud import WordCloud
 import seaborn as sns
 
 # Sidebar Title
-st.sidebar.title("🌟 WhatsApp Chat Analyzer 📊")
+st.sidebar.title("🌟 Conversation Trend Analyzer 📊")
 st.write("Analyze your WhatsApp chats easily and gain insights into your conversations.")
 
 
@@ -149,5 +149,6 @@ if uploaded_file is not None:
                 fig,ax = plt.subplots()
                 ax.pie( emoji_df[1].head(),labels=emoji_df[0].head(),autopct="%0.2f")
                 st.pyplot(fig)
+
 
 
